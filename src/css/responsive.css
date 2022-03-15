@@ -1,0 +1,199 @@
+@media (max-width: 1300px) {
+    .principal .conteudo img{
+        margin-top: 10px;
+        height: 500px;
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .principal .conteudo h2{
+        font-size: 70px;
+        left: 0;
+        text-align: center;
+    }
+
+    .principal .conteudo p{
+        font-size: 30px;
+        left: 0px;
+        text-align: center;
+    }
+
+    .principal .conteudo button{
+        width: 500px;
+        height: 80px;
+        font-size: 35px;
+        display: block;
+        margin: 20px auto 60px auto;
+        left: 0;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .principal .conteudo img{
+        margin-top: 30px;
+        height: 250px;
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .principal .conteudo h2{
+        font-size: 45px;
+        left: 0;
+        text-align: center;
+    }
+
+    .principal .conteudo p{
+        font-size: 25px;
+        left: 0px;
+        text-align: center;
+    }
+
+    .principal .conteudo button{
+        width: 300px;
+        height: 50px;
+        border: none;
+        border-radius: 15px;
+        font-size: 25px;
+        background-color: #D2872C;
+        display: block;
+        margin: 20px auto 60px auto;
+        left: 0;
+    }
+
+    .cabecalho .menu ul{
+        display: block;
+        text-align: center;
+        width: 400px;
+        padding: 0;
+    }
+}
+
+@media (max-width: 425px) {
+
+    body{
+        box-sizing: border-box;
+    }
+
+    .cabecalho {
+        margin: 20px 20px 0 20px;
+        padding: 20px 20px 0 20px;
+
+    }
+
+    .cabecalho .logo{
+        display: block;
+        height: 50px;
+    }
+
+    .cabecalho .menu{
+        display: block;
+        float: none;
+    }
+
+    .cabecalho .menu ul{
+        padding: 0;
+        width: 300px;
+    }
+
+    .cabecalho .menu ul li{
+        display: block;
+        padding: 0px;
+        margin: 20px;
+        text-align: center;
+    }
+
+    .cabecalho .menu ul li a{
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .principal .conteudo img{
+        margin-top: 30px;
+        height: 200px;
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .principal .conteudo h2{
+        font-size: 35px;
+        left: 0;
+        text-align: center;
+    }
+
+    .principal .conteudo p{
+        font-size: 20px;
+        left: 0px;
+        text-align: center;
+    }
+
+    .principal .conteudo button{
+        width: 315px;
+        height: 60px;
+        border: none;
+        border-radius: 15px;
+        font-size: 25px;
+        background-color: #D2872C;
+        display: block;
+        margin: 20px auto 60px auto;
+        left: 0;
+    }
+}
+
+@media (max-width: 375px) {
+
+    .cabecalho {
+        font-size: 15px;
+    }
+
+    .cabecalho .logo{
+        font-size: 25px;
+    }
+
+    .principal .conteudo img{
+        margin-top: 30px;
+        height: 150px;
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .principal .conteudo h2{
+        font-size: 25px;
+        left: 0;
+        text-align: center;
+    }
+
+    .principal .conteudo p{
+        font-size: 15px;
+        left: 0px;
+        text-align: center;
+    }
+
+    .principal .conteudo button{
+        width: 150px;
+        height: 40px;
+        border: none;
+        border-radius: 15px;
+        font-size: 20px;
+        background-color: #D2872C;
+        display: block;
+        margin: 20px auto 60px auto;
+        left: 0;
+        }
+
+    .cabecalho .menu ul{
+        width: 150px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

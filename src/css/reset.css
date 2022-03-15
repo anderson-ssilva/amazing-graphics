@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+body{
+    max-width: 1440px
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #766F68;
+}
+
+ul{
+    list-style: none;
+}
+

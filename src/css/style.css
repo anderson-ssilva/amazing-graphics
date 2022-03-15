@@ -1,0 +1,86 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    color: #766F68;    
+}
+
+.cabecalho{
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.cabecalho .logo{
+    display: inline-block;
+    width: 200px;
+    height: 70px;
+    color: #D2872C;
+}
+
+.cabecalho .menu{
+    display: inline-block;
+    float: right;
+    font-size: 17px;
+}
+
+
+.cabecalho .menu ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+.cabecalho .menu ul li a{
+    padding: 15px;
+    margin: 10px;
+    transition: 0.3s ease-in-out;
+
+}
+
+.cabecalho .menu ul li a:hover{
+    background-color: #D2872C;
+    color: white;
+
+    
+}
+
+.principal .conteudo img{
+    margin-top: 30px;
+    height: 450px;
+    float: right;
+}
+
+.principal .conteudo h2{
+    font-size: 70px;
+    font-weight: 500;
+    position: relative;
+    left: 150px;
+}
+
+.principal .conteudo p{
+    margin-top: 20px;
+    font-size: 30px;
+    position: relative;
+    left: 150px;
+}
+
+.principal .conteudo button{
+    position: relative;
+    left: 150px;
+    margin-top: 40px;
+    width: 250px;
+    height: 50px;
+    border: none;
+    border-radius: 15px;
+    font-size: 27px;
+    background-color: #D2872C;
+    font-family: 'Roboto', sans-serif;
+}
+
+.principal .conteudo button a{
+    color: white;
+    transition: 0.3s ease-in-out;
+
+}
+
+.principal .conteudo button a:hover{
+    font-weight: bold;
+}
